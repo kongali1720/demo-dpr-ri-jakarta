@@ -1,15 +1,12 @@
-# Panduan Kontribusi
+# Contributing to DEMO DPR RI Project
 
-Terima kasih sudah tertarik berkontribusi! 🙌
+🎉 Terima kasih sudah tertarik untuk berkontribusi pada project ini! 🎉  
+Kami sangat menghargai ide, kritik, maupun kontribusi dari siapa saja.
 
-## Langkah Kontribusi
-1. Fork repo ini
-2. Buat branch baru untuk fitur/bugfix
-3. Tulis kode dengan rapi + komentar
-4. Jalankan test (kalau ada)
-5. Buat Pull Request
+## Cara Berkontribusi
 
-## Kode Etik
-- Selalu gunakan bahasa yang sopan
-- Sertakan dokumentasi bila menambah fitur
-- Diskusi dulu di Issue sebelum mengubah hal besar
+1. **Fork** repository ini ke akun GitHub kamu.
+2. **Clone** hasil fork ke komputer lokal:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
+
